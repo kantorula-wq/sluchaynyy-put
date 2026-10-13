@@ -46,11 +46,9 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/USERNAME/sluchaynyy-put.git
+git clone https://github.com/kantorula-wq/sluchaynyy-put.git
 cd sluchaynyy-put
 ```
-
-_(После публикации на GitHub замените `USERNAME/sluchaynyy-put` на фактический адрес репозитория.)_
 
 ### 2. Создание и активация виртуального окружения
 
