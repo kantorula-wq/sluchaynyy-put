@@ -78,6 +78,14 @@ pip install -r requirements.txt
 
 ### 4. Запуск программы
 
+**macOS / Linux (одной командой из корня проекта):**
+
+```bash
+./run.sh
+```
+
+**Или вручную:**
+
 ```bash
 python main.py
 ```
